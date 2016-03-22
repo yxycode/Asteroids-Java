@@ -1,0 +1,2 @@
+appletviewer asteroidsgame.html
+pause

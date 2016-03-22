@@ -1,0 +1,2 @@
+javac asteroidsgame.java
+pause
